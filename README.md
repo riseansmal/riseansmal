@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Ri Sean Smal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riseansmal&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)
+![Ri Sean Smal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riseansmal&show_icons=true&title_color=fff&icon_color=00d8fd&text_color=9f9f9f&bg_color=0E1217&hide=contribs)
 
 <!--
 **riseansmal/riseansmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
