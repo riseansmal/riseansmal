@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hey 👋 I'm Ri Sean!
 
+### I help my clients bring their vision to the Edge.
+
+#### TypeScript, tRPC, Next.js, Prisma, Tailwind, Auth.js, Turborepo, Vercel, PlanetScale, Upstash, and AWS.
+\
 ![Ri Sean Smal's GitHub Stats](https://github-readme-stats-riseansmal.vercel.app/api?username=riseansmal&count_private=true&show_icons=true&title_color=fff&icon_color=00d8fd&text_color=9f9f9f&bg_color=0E1217)
 
 <!--
