@@ -1,20 +1,15 @@
-# Hey 👋 I'm Ri Sean!
+# My Tech Stack
 
-### I help my clients bring their vision to the Edge.
-
-#### TypeScript, tRPC, Next.js, Prisma, Tailwind, Auth.js, Turborepo, Vercel, PlanetScale, Upstash, and AWS.
-
-<!--
-**riseansmal/riseansmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://svgl.app/api/typescript" alt="TypeScript" height="50" />
+  <img src="https://svgl.app/api/trpc" alt="tRPC" height="50" />
+  <img src="https://svgl.app/api/nextdotjs" alt="Next.js" height="50" />
+  <img src="https://svgl.app/api/prisma" alt="Prisma" height="50" />
+  <img src="https://svgl.app/api/tailwindcss" alt="Tailwind CSS" height="50" />
+  <img src="https://svgl.app/api/authjs" alt="Auth.js" height="50" />
+  <img src="https://svgl.app/api/turborepo" alt="Turborepo" height="50" />
+  <img src="https://svgl.app/api/vercel" alt="Vercel" height="50" />
+  <img src="https://svgl.app/api/planetscale" alt="PlanetScale" height="50" />
+  <img src="https://svgl.app/api/upstash" alt="Upstash" height="50" />
+  <img src="https://svgl.app/api/aws" alt="AWS" height="50" />
+</p>
