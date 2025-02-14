@@ -1,15 +1,13 @@
-# My Tech Stack
-
-<p align="center">
-  <img src="https://svgl.app/api/typescript" alt="TypeScript" height="50" />
-  <img src="https://svgl.app/api/trpc" alt="tRPC" height="50" />
-  <img src="https://svgl.app/api/nextdotjs" alt="Next.js" height="50" />
-  <img src="https://svgl.app/api/prisma" alt="Prisma" height="50" />
-  <img src="https://svgl.app/api/tailwindcss" alt="Tailwind CSS" height="50" />
-  <img src="https://svgl.app/api/authjs" alt="Auth.js" height="50" />
-  <img src="https://svgl.app/api/turborepo" alt="Turborepo" height="50" />
-  <img src="https://svgl.app/api/vercel" alt="Vercel" height="50" />
-  <img src="https://svgl.app/api/planetscale" alt="PlanetScale" height="50" />
-  <img src="https://svgl.app/api/upstash" alt="Upstash" height="50" />
-  <img src="https://svgl.app/api/aws" alt="AWS" height="50" />
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/tRPC-2596be?logo=trpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth.js-3B82F6?logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Turborepo-FBBF24?logo=turborepo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlanetScale-000000?logo=planetscale&logoColor=white" />
+  <img src="https://img.shields.io/badge/Upstash-1F2937?logo=upstash&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
 </p>
