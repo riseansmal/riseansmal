@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Ri Sean
+![alt text](https://github.com/riseansmal/riseansmal/blob/main/banner.jpeg?raw=true)
 
 [![Github Followers](https://img.shields.io/github/followers/riseansmal?label=Follow&style=social)](https://github.com/riseansmal)
 [![GitHub stars](https://img.shields.io/github/stars/riseansmal?style=social)](https://github.com/riseansmal?tab=repositories)
