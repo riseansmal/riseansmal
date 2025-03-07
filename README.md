@@ -20,9 +20,9 @@ I'm a **Web Engineer** specializing in Edge computing and serverless architectur
 ```
 Frontend     | Backend      | Database    | DevOps        | AI/ML
 -------------|--------------|-------------|---------------|-------------
-TypeScript   | Node.js      | PlanetScale | AWS           | TensorFlow
-React        | tRPC         | Prisma      | Vercel        | PyTorch
-Next.js      | Auth.js      | MongoDB     | Turborepo     | Langchain
+TypeScript   | Node.js      | Neon        | AWS           | TensorFlow
+React        | tRPC         | Upstash     | Vercel        | PyTorch
+Next.js      | Auth.js      | Supabase    | Turborepo     | Langchain
 Tailwind CSS | Express      | Redis       | Docker        | Transformers
 ```
 
