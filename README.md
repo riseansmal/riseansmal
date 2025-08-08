@@ -6,23 +6,25 @@
 
 ## About Me
 
-I'm a **Web Engineer** specializing in Edge computing and serverless architecture. I build high-performance, scalable web solutions with a focus on developer experience (DX) and open-source collaboration.
+I’m a Web Engineer and Vibe Coder crafting high-performance experiences for the Web and shipping at the Edge. I work with cutting-edge AI tools — including Cursor, v0, AI SDK, Claude 4, and GPT-5 — to solve complex problems and deliver results fast across distributed, AI-driven systems.
 
-- 🚀 **Building:** Edge-first web applications with Next.js and Vercel
-- 🌱 **Learning:** Advanced Machine Learning & AI
-- 🔭 **Exploring:** New paradigms in distributed systems and edge computing
-- ✍️ **Writing:** Thoughts on modern web development
-- 💬 **Ask me about:** Edge computing, Open Source, and all things web
+My current focus is on building AI Agent workflows: autonomous systems that can reason, coordinate, and act on behalf of developers or end users. I’m exploring the frontiers of multi-agent collaboration, advanced tool use, and large-scale task automation, leveraging the latest language models and orchestration frameworks to push the boundaries of what’s possible.
+
+- 🚀 **Building:** Edge-native web applications with Next.js, AI SDK, and serverless architecture  
+- 🧠 **Developing:** Agentic workflows using autonomous AI agents and smart orchestration  
+- 🔭 **Exploring:** LLMs, multi-agent systems, and real-world AI integrations  
+- ✍️ **Writing:** On the intersection of AI, web, and the future of development  
+- 💬 **Ask me about:** Cursor, v0, AI SDK, Claude 4, GPT-5, or anything agentic  
 - 📫 **Reach me at:** [contact [at] riseansmal [dot] com]
 
 ## Tech Stack
 
 ```
 Frontend     | Backend     | Database    | DevOps      | AI/ML
--------------|-------------|-------------|-------------|-------------
-TypeScript   | Node.js     | Neon        | AWS         | TensorFlow
-React        | tRPC        | Upstash     | Vercel      | PyTorch
-Next.js      | Auth.js     | Supabase    | Turborepo   | Langchain
+-------------|-------------|-------------|-------------|-----------------
+TypeScript   | Node.js     | Neon        | AWS         | Claude 4 / GPT-5
+React        | tRPC        | Upstash     | Vercel      | AI SDK
+Next.js      | Auth.js     | Supabase    | Turborepo   | AI Agents
 Tailwind CSS | Express     | Redis       | Docker      | Transformers
 ```
 
@@ -60,7 +62,9 @@ Tailwind CSS | Express     | Redis       | Docker      | Transformers
 
 ## Looking to Collaborate?
 
-I'm always interested in connecting with fellow developers on edge computing and web performance projects. If you're working on something interesting or want to discuss ideas, feel free to reach out!
+I’m always open to collaborating with forward-thinking developers, founders, and researchers working on **agentic AI**, **edge-native systems**, or **AI-enhanced developer workflows**.
+
+If you're building with **Cursor**, **v0**, **AI SDK**, **Claude 4**, or **GPT-5**, let's connect.
 
 - 📫 **Reach me at:** [contact [at] riseansmal [dot] com]
 
