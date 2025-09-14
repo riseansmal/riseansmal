@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m a Web Engineer and Vibe Coder crafting high-performance experiences for the Web and shipping at the Edge. I work with cutting-edge AI tools — including Cursor, v0, AI SDK, Claude 4, and GPT-5 — to solve complex problems and deliver results fast across distributed, AI-driven systems.
+I’m a Software Engineer, Systems Architect, and Vibe Coder crafting high-performance experiences for the Web and shipping at the Edge. I work with cutting-edge AI tools — including Cursor, v0, AI SDK, Claude 4, and GPT-5 — to solve complex problems and deliver results fast across distributed, AI-driven systems.
 
 My current focus is on building AI Agent workflows: autonomous systems that can reason, coordinate, and act on behalf of developers or end users. I’m exploring the frontiers of multi-agent collaboration, advanced tool use, and large-scale task automation, leveraging the latest language models and orchestration frameworks to push the boundaries of what’s possible.
 
