@@ -56,7 +56,6 @@ Tailwind CSS | Express     | Redis       | Docker      | Transformers
 <p>
   <a href="https://twitter.com/riseansmal"><img src="https://img.shields.io/badge/X-riseansmal-000000?style=flat-square&logo=x" alt="X"></a>
   <a href="https://www.linkedin.com/in/riseansmal"><img src="https://img.shields.io/badge/LinkedIn-Ri_Sean_Smal-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://t.me/riseansmal"><img src="https://img.shields.io/badge/Telegram-%40riseansmal-1DA1F2?style=flat-square&logo=telegram" alt="Telegram"></a>
   <a href="mailto:contact@riseansmal.com"><img src="https://img.shields.io/badge/Email-contact%40riseansmal.com-EA4335?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
 
