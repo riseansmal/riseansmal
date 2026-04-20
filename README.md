@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m a Software Engineer, Systems Architect, Competitive Coder, and Vibe Engineer crafting high-performance experiences for the Web and shipping at the Edge. I work with cutting-edge AI tools — including Cursor, v0, AI SDK, Claude 4.5, and GPT-5 — to solve complex problems and deliver results fast across distributed, AI-driven systems.
+I’m a Software Engineer, Systems Architect, Competitive Coder, and Vibe Engineer crafting high-performance experiences for the Web and shipping at the Edge. I work with cutting-edge AI tools — including Cursor, v0, AI SDK, Claude , and GPT-5 — to solve complex problems and deliver results fast across distributed, AI-driven systems.
 
 My current focus is on building AI Agent workflows: autonomous systems that can reason, coordinate, and act on behalf of developers or end users. I’m exploring the frontiers of multi-agent collaboration, advanced tool use, and large-scale task automation, leveraging the latest language models and orchestration frameworks to push the boundaries of what’s possible.
 
@@ -14,7 +14,7 @@ My current focus is on building AI Agent workflows: autonomous systems that can 
 - 🧠 **Developing:** Agentic workflows using autonomous AI agents and smart orchestration  
 - 🔭 **Exploring:** LLMs, multi-agent systems, and real-world AI integrations  
 - ✍️ **Writing:** On the intersection of AI, web, and the future of development  
-- 💬 **Ask me about:** Cursor, v0, AI SDK, Claude 4.5, GPT-5, or anything agentic  
+- 💬 **Ask me about:** Cursor, v0, AI SDK, Claude 4.x, GPT-5, or anything agentic  
 - 📫 **Reach me at:** [contact [at] riseansmal [dot] com]
 
 ## Tech Stack
@@ -22,7 +22,7 @@ My current focus is on building AI Agent workflows: autonomous systems that can 
 ```
 Frontend     | Backend     | Database    | DevOps      | AI/ML
 -------------|-------------|-------------|-------------|-------------------
-TypeScript   | Node.js     | Neon        | AWS         | Claude 4.5 / GPT-5
+TypeScript   | Node.js     | Neon        | AWS         | Claude 4.x / GPT-5
 React        | tRPC        | Upstash     | Vercel      | AI SDK
 Next.js      | Auth.js     | Supabase    | Turborepo   | AI Agents
 Tailwind CSS | Express     | Redis       | Docker      | Transformers
@@ -63,7 +63,7 @@ Tailwind CSS | Express     | Redis       | Docker      | Transformers
 
 I’m always open to collaborating with forward-thinking developers, founders, and researchers working on **agentic AI**, **edge-native systems**, or **AI-enhanced developer workflows**.
 
-If you're building with **Cursor**, **v0**, **AI SDK**, **Claude 4.5**, or **GPT-5**, let's connect.
+If you're building with **Cursor**, **v0**, **AI SDK**, **Claude **, or **GPT-5**, let's connect.
 
 - 📫 **Reach me at:** [contact [at] riseansmal [dot] com]
 
