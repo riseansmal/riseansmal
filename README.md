@@ -63,7 +63,7 @@ Tailwind CSS | Express     | Redis       | Docker      | Transformers
 
 I’m always open to collaborating with forward-thinking developers, founders, and researchers working on **agentic AI**, **edge-native systems**, or **AI-enhanced developer workflows**.
 
-If you're building with **Cursor**, **v0**, **AI SDK**, **Claude **, or **GPT-5**, let's connect.
+If you're building with **Cursor**, **v0**, **AI SDK**, **Claude 4.x**, or **GPT-5**, let's connect.
 
 - 📫 **Reach me at:** [contact [at] riseansmal [dot] com]
 
