@@ -14,15 +14,14 @@ My current focus is on building AI Agent workflows: autonomous systems that can 
 - 🧠 **Developing:** Agentic workflows using autonomous AI agents and smart orchestration  
 - 🔭 **Exploring:** LLMs, multi-agent systems, and real-world AI integrations  
 - ✍️ **Writing:** On the intersection of AI, web, and the future of development  
-- 💬 **Ask me about:** Cursor, v0, AI SDK, Claude 4.x, GPT-5, or anything agentic  
-- 📫 **Reach me at:** [contact [at] riseansmal [dot] com]
+- 💬 **Ask me about:** Cursor, v0, AI SDK, Claude 5.x, GPT-5, or anything agentic
 
 ## Tech Stack
 
 ```
 Frontend     | Backend     | Database    | DevOps      | AI/ML
 -------------|-------------|-------------|-------------|-------------------
-TypeScript   | Node.js     | Neon        | AWS         | Claude 4.x / GPT-5
+TypeScript   | Node.js     | Neon        | AWS         | Claude 5.x / GPT-5
 React        | tRPC        | Upstash     | Vercel      | AI SDK
 Next.js      | Auth.js     | Supabase    | Turborepo   | AI Agents
 Tailwind CSS | Express     | Redis       | Docker      | Transformers
@@ -63,9 +62,7 @@ Tailwind CSS | Express     | Redis       | Docker      | Transformers
 
 I’m always open to collaborating with forward-thinking developers, founders, and researchers working on **agentic AI**, **edge-native systems**, or **AI-enhanced developer workflows**.
 
-If you're building with **Cursor**, **v0**, **AI SDK**, **Claude 4.x**, or **GPT-5**, let's connect.
-
-- 📫 **Reach me at:** [contact [at] riseansmal [dot] com]
+If you're building with **Cursor**, **v0**, **AI SDK**, **Claude 5.x**, or **GPT-5**, let's connect.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riseansmal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
