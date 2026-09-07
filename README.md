@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m a Software Engineer, Systems Architect, Competitive Coder, and Vibe Engineer crafting high-performance experiences for the Web and shipping at the Edge. I work with cutting-edge AI tools — including Cursor, v0, AI SDK, Claude , and GPT-5 — to solve complex problems and deliver results fast across distributed, AI-driven systems.
+I’m a Software Engineer, Systems Architect, Competitive Coder, and Vibe Engineer crafting high-performance experiences for the Web and shipping at the Edge. I work with cutting-edge AI tools — including Cursor, v0, AI SDK, Claude 5.x, and GPT-6 — to solve complex problems and deliver results fast across distributed, AI-driven systems.
 
 My current focus is on building AI Agent workflows: autonomous systems that can reason, coordinate, and act on behalf of developers or end users. I’m exploring the frontiers of multi-agent collaboration, advanced tool use, and large-scale task automation, leveraging the latest language models and orchestration frameworks to push the boundaries of what’s possible.
 
@@ -14,14 +14,14 @@ My current focus is on building AI Agent workflows: autonomous systems that can 
 - 🧠 **Developing:** Agentic workflows using autonomous AI agents and smart orchestration  
 - 🔭 **Exploring:** LLMs, multi-agent systems, and real-world AI integrations  
 - ✍️ **Writing:** On the intersection of AI, web, and the future of development  
-- 💬 **Ask me about:** Cursor, v0, AI SDK, Claude 5.x, GPT-5, or anything agentic
+- 💬 **Ask me about:** Cursor, v0, AI SDK, Claude 5.x, GPT-6, or anything agentic
 
 ## Tech Stack
 
 ```
 Frontend     | Backend     | Database    | DevOps      | AI/ML
 -------------|-------------|-------------|-------------|-------------------
-TypeScript   | Node.js     | Neon        | AWS         | Claude 5.x / GPT-5
+TypeScript   | Node.js     | Neon        | AWS         | Claude 5.x / GPT-6
 React        | tRPC        | Upstash     | Vercel      | AI SDK
 Next.js      | Auth.js     | Supabase    | Turborepo   | AI Agents
 Tailwind CSS | Express     | Redis       | Docker      | Transformers
@@ -53,16 +53,15 @@ Tailwind CSS | Express     | Redis       | Docker      | Transformers
 ## Let's Connect
 
 <p>
-  <a href="https://twitter.com/riseansmal"><img src="https://img.shields.io/badge/X-riseansmal-000000?style=flat-square&logo=x" alt="X"></a>
+  <a href="https://x.com/riseansmal"><img src="https://img.shields.io/badge/X-riseansmal-000000?style=flat-square&logo=x" alt="X"></a>
   <a href="https://www.linkedin.com/in/riseansmal"><img src="https://img.shields.io/badge/LinkedIn-Ri_Sean_Smal-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:contact@riseansmal.com"><img src="https://img.shields.io/badge/Email-contact%40riseansmal.com-EA4335?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
 
 ## Looking to Collaborate?
 
 I’m always open to collaborating with forward-thinking developers, founders, and researchers working on **agentic AI**, **edge-native systems**, or **AI-enhanced developer workflows**.
 
-If you're building with **Cursor**, **v0**, **AI SDK**, **Claude 5.x**, or **GPT-5**, let's connect.
+If you're building with **Cursor**, **v0**, **AI SDK**, **Claude 5.x**, or **GPT-6**, let's connect.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riseansmal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
